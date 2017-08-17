@@ -14,8 +14,8 @@
    ╰────────────────────╯                                                                  
 ```
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/websemantics/Image-Select/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/websemantics/Image-Select.svg)](https://github.com/websemantics/Image-Select/network) [![GitHub stars](https://img.shields.io/github/stars/websemantics/Image-Select.svg)](https://github.com/websemantics/Image-Select/stargazers)
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/websemantics/Image-Select.svg)](http://isitmaintained.com/project/websemantics/Image-Select "Percentage of issues still open")
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/websitebloger/Image-Select/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/websitebloger/Image-Select.svg)](https://github.com/websitebloger/Image-Select/network) [![GitHub stars](https://img.shields.io/github/stars/websitebloger/Image-Select.svg)](https://github.com/websitebloger/Image-Select/stargazers)
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/websitebloger/Image-Select.svg)](http://isitmaintained.com/project/websitebloger/Image-Select "Percentage of issues still open")
 
 > We designed this plugin extension as a humanized UI element for social networking sites that need to facilitate relations between people. Research shows that people are extremely sensitive to photos of others, so we needed to revamp the traditional UI elements to make them more intuitive and human.
 
@@ -23,9 +23,9 @@
 ## New Style
 > Fresh flat styles and new logo & web design for better user experience
 
-<img src="http://websemantics.github.io/Image-Select/img/sample-w540@2x.png" style="width:540px" alt="Image Select"/>
+<img src="http://websitebloger.github.io/Image-Select/img/sample-w540@2x.png" style="width:540px" alt="Image Select"/>
 
-#### Try [Live](http://websemantics.github.io/Image-Select/) or [Examples](http://websemantics.github.io/Image-Select/example.html)
+#### Try [Live](http://websitebloger.github.io/Image-Select/) or [Examples](http://websitebloger.github.io/Image-Select/example.html)
 
 
 ## Use Scenarios
@@ -40,7 +40,7 @@ We couldn't find any scripts that had this full functionality, so we developed i
 - Clone locally,
 
 ```bash
-git clone https://github.com/websemantics/Image-Select
+git clone https://github.com/websitebloger/Image-Select
 ```
 
 - Install dependencies,
@@ -100,14 +100,14 @@ We are more than happy to accept external contributions to the project in the fo
 
 # Used by
 
-[PyroCMS Social Field Type](https://github.com/websemantics/social-field_type)
+[PyroCMS Social Field Type](https://github.com/websitebloger/social-field_type)
 
-![demo](https://raw.githubusercontent.com/websemantics/Image-Select/master/img/social_field_type.gif)
+![demo](https://raw.githubusercontent.com/websitebloger/Image-Select/master/img/social_field_type.gif)
 
 
 ## Open Source
 Chosen, http://github.com/harvesthq/chosen
-Bragit, http://websemantics.github.io/bragit
+Bragit, http://websitebloger.github.io/bragit
 
 
 ## Copyright and license
